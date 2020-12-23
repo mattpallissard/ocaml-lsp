@@ -13,7 +13,7 @@ authors: [
   "cannorin <cannorin@gmail.com>"
 ]
 license: "ISC"
-homepage: "https://github.com/mattpallissard/ocaml-lsp"
+homepage: "https://github.com/ocaml/ocaml-lsp"
 bug-reports: "https://github.com/ocaml/ocaml-lsp/issues"
 depends: [
   "dune" {>= "2.5"}
@@ -21,7 +21,7 @@ depends: [
   "stdlib-shims"
   "ppx_yojson_conv_lib"
   "dune-build-info"
-  "dot-merlin-reader" {= "3.4.1"}
+  "dot-merlin-reader"
   "csexp" {>= "1.2.3"}
   "result" {>= "1.5"}
   "ocamlformat" {with-test}
