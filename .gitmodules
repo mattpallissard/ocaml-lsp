@@ -1,8 +1,7 @@
 [submodule "vendor/merlin"]
 path = ocaml-lsp-server/vendor/merlin
-url = https://github.com/rgrinberg/merlin
-branch = lsp
-ignore = dirty
+url = https://github.com/mattpallissard/merlin.git
+branch = feature/lsp
 [submodule "vendor/cmdliner"]
 path = ocaml-lsp-server/vendor/cmdliner
 url = https://github.com/dbuenzli/cmdliner.git

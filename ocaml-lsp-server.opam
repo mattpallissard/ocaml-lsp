@@ -21,7 +21,7 @@ depends: [
   "stdlib-shims"
   "ppx_yojson_conv_lib"
   "dune-build-info"
-  "dot-merlin-reader"
+  "dot-merlin-reader" {= "3.4.1"}
   "csexp" {>= "1.2.3"}
   "result" {>= "1.5"}
   "ocamlformat" {with-test}
