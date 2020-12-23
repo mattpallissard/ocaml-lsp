@@ -14,7 +14,7 @@ authors: [
 ]
 license: "ISC"
 homepage: "https://github.com/mattpallissard/ocaml-lsp"
-bug-reports: "https://github.com/ocaml/ocaml-lsp/issues"
+bug-reports: "https://github.com/mattpallissard/ocaml-lsp/issues"
 depends: [
   "dune" {>= "2.5"}
   "yojson"
